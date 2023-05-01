@@ -1,6 +1,6 @@
 # PHP CRUD Web Application
 ## Introduction
-This repository showcases a basic CRUD (Create, Read, Update, Delete) web application built using PHP, Apache, and MySQL. It serves as a starting point for anyone who is learning PHP for the first time and wants to create a dynamic web application.
+This repository showcases a basic CRUD (Create, Read, Update, Delete) web application built using PHP, Apache, and MySQL. It serves as a starting point for anyone who is learning PHP for the first time and wants to create a dynamic web application.this application takes users data such as name, wmail, number and DOB. The application also allows editing and deleting of these records.
 
 ## Requirements
 - PHP 7.x
